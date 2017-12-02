@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a4", "a4.vcxproj", "{6782EB01-42E5-4213-A1B9-47F05C5902EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3BEDB068-4F89-4025-85E3-39031ED2AE45}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Users\iam\Documents\CUDA by Example\chapter05\ripple.cu = ..\..\..\..\Users\iam\Documents\CUDA by Example\chapter05\ripple.cu
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6782EB01-42E5-4213-A1B9-47F05C5902EF}.Debug|x64.ActiveCfg = Debug|x64
+		{6782EB01-42E5-4213-A1B9-47F05C5902EF}.Debug|x64.Build.0 = Debug|x64
+		{6782EB01-42E5-4213-A1B9-47F05C5902EF}.Release|x64.ActiveCfg = Release|x64
+		{6782EB01-42E5-4213-A1B9-47F05C5902EF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF908C12-2356-4777-97A3-1A56D3F8A34C}
+	EndGlobalSection
+EndGlobal
