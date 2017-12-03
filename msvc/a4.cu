@@ -263,7 +263,7 @@ int main(int argc, char **argv) {
 		printf("m: %d, n: %d, grid: %d x %d, threads: %d, elapsed gpu time: %f\n\r", \
 			m, n, x, y, (int)(tx * ty), gpu_end - gpu_start);
 	}
-	printf("m: %d, n: %d:, grid: %d x %d, threads: %d, elapsed cpu time: %f\n\r", \
+	printf("m: %d, n: %d, grid: %d x %d, threads: %d, elapsed cpu time: %f\n\r", \
 		m, n, x, y, (int)(tx * ty), cpu_end - cpu_start);
 
 	free_matrix(a, HOST);
